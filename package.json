@@ -1,0 +1,18 @@
+{
+  "name": "find-visa-slot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kulwinder",
+  "license": "ISC",
+  "dependencies": {
+    "date-and-time": "^3.1.1",
+    "dotenv": "^16.4.5",
+    "node-telegram-bot-api": "^0.65.1",
+    "puppeteer": "^22.7.1",
+    "twilio": "^5.0.4"
+  }
+}
